@@ -1,2 +1,2 @@
 # Semaphores
-Implementation of semaphores using the pthread library of C to solve the Dining philosophers Problem
+Implementation of semaphores(both the blocking as well as non blocking variants) using the pthread library of C to solve the Dining Philosophers Problem
